@@ -13,6 +13,7 @@
   "dependencies": {
     "@pinata/sdk": "^2.1.0",
     "cors": "^2.8.5",
+    "ethers": "^6.12.1",
     "express": "^4.19.2"
   },
   "devDependencies": {
